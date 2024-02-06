@@ -1,11 +1,11 @@
 
-# Git: Controle de Versão Distribuído
+# Menu - Git: Controle de Versão Distribuído
 
 - [Sobre o Git](#sobre-o-git)
 - [Importância do Git para Desenvolvedores](#importância-do-git-para-desenvolvedores)
 - [Referências Adicionais](#referências-adicionais)
 
-# Guia de Comandos Git
+# Menu - Guia de Comandos Git
 
 - [Configuração Inicial](#configuração-inicial)
 - [Inicialização e Clonagem](#inicialização-e-clonagem)
