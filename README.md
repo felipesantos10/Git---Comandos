@@ -1,3 +1,21 @@
+
+# Git: Controle de Versão Distribuído
+
+- [Sobre o Git](#sobre-o-git)
+- [Importância do Git para Desenvolvedores](#importância-do-git-para-desenvolvedores)
+- [Referências Adicionais](#referências-adicionais)
+
+# Guia de Comandos Git
+
+- [Configuração Inicial](#configuração-inicial)
+- [Inicialização e Clonagem](#inicialização-e-clonagem)
+- [Trabalhando com Mudanças](#trabalhando-com-mudanças)
+- [Branches e Merging](#branches-e-merging)
+- [Trabalhando com Repositórios Remotos](#trabalhando-com-repositórios-remotos)
+- [Desfazendo Alterações](#desfazendo-alterações)
+- [Referências](#referências)
+
+
 # Git: Controle de Versão Distribuído
 
 O Git é um sistema de controle de versão distribuído amplamente utilizado na indústria de desenvolvimento de software. Desenvolvido por Linus Torvalds em 2005 para gerenciar o desenvolvimento do kernel do Linux, o Git se tornou uma ferramenta essencial para desenvolvedores em projetos de todos os tamanhos e complexidades.
