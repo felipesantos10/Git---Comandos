@@ -8,7 +8,7 @@
 # Menu - Guia de Comandos Git
 
 - [Configuração Inicial](#configuração-inicial)
-- [Inicialização e Clonagem](#inicialização-e-clonagem)
+- [Inicialização e Clonagem(#inicialização-e-clonagem)
 - [Trabalhando com Mudanças](#trabalhando-com-mudanças)
 - [Branches e Merging](#branches-e-merging)
 - [Trabalhando com Repositórios Remotos](#trabalhando-com-repositórios-remotos)
