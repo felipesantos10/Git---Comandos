@@ -1,5 +1,5 @@
 
-# Menu - Git: Controle de Versão Distribuído
+# Menu - Git: Controle de Versão Distribuído.
 
 - [Sobre o Git](#sobre-o-git)
 - [Importância do Git para Desenvolvedores](#importância-do-git-para-desenvolvedores)
