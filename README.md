@@ -1,4 +1,4 @@
-![git](https://images.app.goo.gl/uBnA4kvt59k5pmi26)
+[git](https://images.app.goo.gl/uBnA4kvt59k5pmi26)
 
 
 
