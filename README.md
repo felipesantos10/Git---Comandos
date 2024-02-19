@@ -1,7 +1,3 @@
-![Git](https://user-images.githubusercontent.com/images.app.goo.gl/wiiM1ebYhA2auBoV8
- )
-
-
 
 
 # Menu - Git: Controle de Versão Distribuído.
