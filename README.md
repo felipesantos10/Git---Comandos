@@ -38,7 +38,7 @@ O Git desempenha um papel fundamental para os desenvolvedores de software por v�
 ## Referências Adicionais
 
 - [Documentação oficial do Git](https://git-scm.com/doc) - Informações detalhadas sobre o Git e seus comandos.
-- [Git Book](https://git-scm.com/book/en/v2) - Um livro completo sobre Git, disponível online gratuitamente.
+- [Git Book](https://git-scm.com/book/en/v2) - Um livro completo sobre Git, disponível online gratuitamente
 
 Em resumo, o Git é uma ferramenta essencial para desenvolvedores de software devido à sua capacidade de controlar eficientemente as versões do código-fonte, facilitar a colaboração em equipe, garantir a segurança e integridade dos dados e oferecer flexibilidade e personalização para atender às necessidades específicas de desenvolvimento.
 
